@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+rm /tmp/my_first_directory/betty
+=======
+#!/bin/bash
+<<<<<<< HEAD
+/tmp/my_first_directory/betty
+>>>>>>> ac6a9fd856ad2d8af94d06b83b26f90a5dc9ac24
+=======
+rm /tmp/my_first_directory/betty
+>>>>>>> c41c632e8a50fb723b95ef6973f731353c0f99a3
